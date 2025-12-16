@@ -1,0 +1,14 @@
+setIcon(<thaumicenergistics:infusion_provider>)
+setTitle("Цифровая эссенция")
+setDescription("Создайте поставщик наполнения эссенции для автоматизации наполнения!")
+
+addParent("triumph:dj2/root")
+setPos(71,250)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasEssentiaInfusionProvider", "minecraft:inventory_changed")
+criteria.addItem(<thaumicenergistics:infusion_provider>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:17_digital_essentia")

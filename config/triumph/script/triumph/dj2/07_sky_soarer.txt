@@ -1,0 +1,14 @@
+setIcon(<contenttweaker:resonating_orb>)
+setTitle("Небеса")
+setDescription("Победите всех боссов Рая и выполните все квесты, чтобы получить резонирующую сферу!")
+
+addParent("triumph:dj2/root")
+setPos(-65,216)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasResonatingOrb", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:resonating_orb>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:07_sky_soarer")

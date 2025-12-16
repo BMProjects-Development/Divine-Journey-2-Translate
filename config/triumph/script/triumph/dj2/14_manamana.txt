@@ -1,0 +1,14 @@
+setIcon(<botania:specialflower, meta:0, count:1, nbt:{type:"puredaisy"}>)
+setTitle("Манамана")
+setDescription("Создайте чистую маргаритку, чтобы начать изучение Botania!")
+
+addParent("triumph:dj2/root")
+setPos(-31,250)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasPureDaisy", "minecraft:inventory_changed")
+criteria.addItem(<botania:specialflower, meta:0, count:1~64, nbt:{type:"puredaisy"}>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:14_manamana")

@@ -1,0 +1,15 @@
+setIcon(<contenttweaker:corrupted_dragon_token>)
+
+setTitle("Испытания Divine Journey 2")
+
+setDescription("Заставьте ваших друзей гордиться (иил завидовать), выполнив все эти достижения!")
+
+setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
+
+setShowToast(false)
+
+setAnnounceToChat(true)
+
+setHidden(true)
+
+addCriteria("impossible", "minecraft:impossible")

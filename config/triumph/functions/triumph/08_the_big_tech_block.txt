@@ -1,0 +1,1 @@
+give @p simple_trophies:trophy 1 0 {TrophyName:"Трофей технологий",TrophyVariant:"neon",TrophyItem:{id:"contenttweaker:rf_powder",Count:1b,Damage:0s},TrophyColorRed:238,TrophyColorGreen:238,TrophyColorBlue:238}

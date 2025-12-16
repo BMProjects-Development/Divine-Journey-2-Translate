@@ -1,0 +1,2 @@
+gamerule commandBlockOutput false
+summon minecraft:fireworks_rocket ~ ~ ~

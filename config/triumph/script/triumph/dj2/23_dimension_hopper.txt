@@ -1,0 +1,14 @@
+setIcon(<rftoolsdim:empty_dimension_tab>)
+setTitle("Прыгающий по измерениям")
+setDescription("Создайту пустую панель измерения, чтобы начать создавать собственные измерения с модом RFTools!")
+
+addParent("triumph:dj2/root")
+setPos(71,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasEmptyDimensionTab", "minecraft:inventory_changed")
+criteria.addItem(<rftoolsdim:empty_dimension_tab>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:23_dimension_hopper")

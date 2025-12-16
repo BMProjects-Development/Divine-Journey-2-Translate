@@ -1,0 +1,1 @@
+give @p simple_trophies:trophy 1 0 {TrophyName:"Трофей техно-мага",TrophyVariant:"neon",TrophyItem:{id:"thaumicenergistics:infusion_provider",Count:1b,Damage:0s},TrophyColorRed:153,TrophyColorGreen:109,TrophyColorBlue:194}

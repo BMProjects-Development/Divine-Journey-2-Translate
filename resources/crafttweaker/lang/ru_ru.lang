@@ -1,0 +1,791 @@
+# Commands
+commands.curseforge.usage=Отправляет ссылку на страницу CurseForge в чат.
+commands.discord.usage=Отправляет ссылку на страницу Discord в чат.
+commands.issues.usage=Отправляет ссылку на страницу с ошибками в чат.
+commands.book_of_logic.usage=Выводит полный текст книги логики в чат, требуется для локализации
+commands.introduction_book.usage=Выводит полный текст начальной книги в чат, требуется для локализации
+commands.curseforge.text=Нажмите здесь, чтобы открыть страницу DJ2 на CurseForge
+commands.discord.text=Нажмите здесь, чтобы присоединиться к Discord
+commands.issues.text=Нажмите здесь, чтобы сообщить об ошибке или проблеме
+
+# Moretweaker Bewitchment Rituals
+ritual.moretweaker.moretweakerrecipe0=Ритуал силы и чистоты
+ritual.moretweaker.moretweakerrecipe1=Ритуал циклов
+
+# Custom player event messages
+dj2.event.elemental_tool.desc0=§dИнструменты начертания нельзя использовать вне предсказателя ритуала!
+dj2.event.horde_horn.message=§bОшибка призыва. Пожалуйста, попробуйте на открытой местности.
+dj2.event.solar_flux_ie_drill.desc0=§cНе разрушайте солнечные панели из Solar Flux
+dj2.event.solar_flux_ie_drill.desc1=§cс помощью дрели из IE, чтобы избежать дюп.
+
+# Activate Block JEI category
+dj2.activate_block_jei.hand.name=§r§cНажатие ПКМ
+dj2.activate_block_jei.flame_devourer_pendant.desc0=§r§bДолжен быть под эффектом §cадского пламени§b
+dj2.activate_block_jei.flame_devourer_pendant.desc1=§r§bТратит прочность
+dj2.activate_block_jei.arcane_workbench.desc0=§r§bДолжен быть изучен в таумономиконе
+dj2.activate_block_jei.crucible.desc0=§r§bДолжен быть изучен в таумономиконе
+dj2.activate_block_jei.phantomink.desc0=§r§bНе расходуется.
+dj2.activate_block_jei.spark.desc0=§r§bПочти не заметна.
+dj2.activate_block_jei.aether_portal.desc0=§r§dОткрывает измерение Рая.
+dj2.activate_block_jei.glass_cable.desc0=§r§dЛюбой AE2 кабель
+dj2.activate_block_jei.rf_duct.desc0=§r§dПочти всё, что может хранить или передавать RF/FE/CF/AE
+dj2.activate_block_jei.bucket.desc0=§r§dПочти всё, что может хранить или передавать жидкости
+dj2.activate_block_jei.barrier.desc0=§r§dПКМ по воздуху
+dj2.activate_block_jei.after_killed.desc0=§r§bПосле убийства.
+
+# Configure JEI category
+dj2.configure_jei.gear.name=§r§dНастройка блока
+dj2.configure_jei.stairs.desc=Поворот блока
+dj2.configure_jei.atomic_reconstructor.desc=§r§bПереключение между импульсным и деактивированным режимом.
+dj2.configure_jei.starlight.desc=§r§bЧто угодно, что может передавать или принимать звёздный свет.
+dj2.configure_jei.enderio_conduit.desc=§r§bЛюбая труба из EnderIO.
+dj2.configure_jei.labeller.desc=§r§bМожет переименовывать что угодно. В основном используется для переменных карт.
+dj2.configure_jei.redprint.desc=§r§bБольшинство блоков из Thermal.
+dj2.configure_jei.configuration_card.desc=§r§bБольшинство машин из Mekanism.
+dj2.configure_jei.fluix_cable.desc=§r§bБольшинство блоков из Applied Energistics 2.
+dj2.configure_jei.immersive_engineering_hammer.desc=§r§bФормирует структуры из Immersive Engineering.
+dj2.configure_jei.rotate_chest.desc=§r§bПоворот (большинства) блоков.
+dj2.configure_jei.integrated_dynamics.desc=§r§bЛюбмая машина из Integrated Dynamics.
+dj2.configure_jei.industrial_foregoing.desc=§r§bЛюбмая машина из Industrial Foregoing.
+dj2.configure_jei.rftools.desc=§r§bЛюбмая машина из RFTools.
+
+# Excavator JEI category
+dj2.excavator.rarity.extremely_common=Чрезвычайно частый
+dj2.excavator.rarity.very_common=Очень частый
+dj2.excavator.rarity.common=Частый
+dj2.excavator.rarity.uncommon=Необычный
+dj2.excavator.rarity.rare=Редкий
+dj2.excavator.rarity.extremely_rare=Чрезвычайно редкий
+
+dj2.excavator.dimension.deep_dark=Deep Dark
+dj2.excavator.dimension.venus=Венера
+dj2.excavator.dimension.asteroids=Астероиды
+dj2.excavator.dimension.mars=Марс
+dj2.excavator.dimension.moon=Луна
+dj2.excavator.dimension.underworld=Подземный мир
+dj2.excavator.dimension.nether=Незер
+dj2.excavator.dimension.overworld=Верхний мир
+dj2.excavator.dimension.end=Край
+dj2.excavator.dimension.aether=Рай
+dj2.excavator.dimension.twilight_forest=Сумеречный лес
+dj2.excavator.dimension.atum=Атум
+dj2.excavator.dimension.abyssal_wasteland=Пустошь Абисса
+dj2.excavator.dimension.dreadlands=Ужасные земли
+dj2.excavator.dimension.erebus=Эребус
+dj2.excavator.dimension.eden=Эдем
+dj2.excavator.dimension.wildwood=Дикий лес
+dj2.excavator.dimension.apalachia=Апалачия
+dj2.excavator.dimension.skythern=Небесный тёрн
+dj2.excavator.dimension.mortum=Мортум
+
+# Roots Block Conversion JEI category
+dj2.roots_block_conversion.barrier.name=§r§dБез катализатора
+
+# Death list tooltip
+dj2.death_list.desc0=Выпадает после смерти
+
+# Book of logic
+dj2.book_of_logic.age.desc=§cВозраст: §b%d§r
+dj2.book_of_logic.friends.desc=§cКоличество друзей: §b%d§r
+dj2.book_of_logic.height.desc=§cРост (в см): §b%d§r
+dj2.book_of_logic.name=§lКнига Логики
+dj2.book_of_logic.desc0=Каковы §c§lвозраст§r, §c§lколичество друзей§r и §c§lрост (в см)§r §lСтива§r, §lАлекс§r и §lХеробрина§r?
+dj2.book_of_logic.desc1=Используйте следующие 9 утверждений, чтобы это выяснить:
+dj2.book_of_logic.desc2=1) У Херобрина только один друг - Нотч.
+dj2.book_of_logic.desc3=2) Стив на один год старше Алекс.
+dj2.book_of_logic.desc4=3) Стив и Херобрин одного роста.
+dj2.book_of_logic.desc5=4) 20 лет назад Херобрин был в два раза старше, чем сумма возрастов Стива и Алекс.
+dj2.book_of_logic.desc6=5) Стив находит 61 друга каждый год. Впечатляюще!
+dj2.book_of_logic.desc7=6) Разность между количеством друзей Алекс и Стива равна росту Херобрина.
+dj2.book_of_logic.desc8=7) Алекс родилась с ростом 66 см. С тех пор её рост увеличивался на 4 см каждый год.
+dj2.book_of_logic.desc9=8) Если каждый год, начиная с этого момента, Херобрин будет удваивать количество своих друзей, то через 11 лет у него будет на 331 друга меньше, чем у Стива. (Помните, Стив тоже набирает друзей каждый год!)
+dj2.book_of_logic.desc10=9) У Алекс на 114 друзей больше, чем увеличинная в 5 раз сумма роста Стива и её самой.
+dj2.book_of_logic.desc11=Используйте модификаторы, указанные в книге квестов и простые бесформенные крафты. Если вы думаете, что всё сделали правильно, объедините Стива, Алекс и Херобрина с эссенцией Мысли в верстаке!
+dj2.book_of_logic.desc12=Удачи!
+
+# Custom DJ2 item descriptions
+dj2.twilight_rock.desc0=§c§lПредмет для входа в Сумеречный лес.
+dj2.twilight_rock.desc1=Если ваш портал случайно сломается, пока вы внутри, у этого предмета есть специальный крафт из материалов Сумеречного леса.
+dj2.twilight_key.desc0=§c§lИспользуйте этот предмет только если хотите пропустить Сумеречный лес.
+dj2.twilight_key.desc1=§c§lИспользуется для создания Лампы огня, которая является финальным предметом в Сумеречном лесу.
+dj2.hardened_amber_moosh.desc0=§o§5Удивительно прочный!
+dj2.crown_of_skies.desc0=§c§lНажмите ПКМ по блоку портала в Рай, чтобы открыть это измерение!
+dj2.crown_of_skies.desc1=§c§lВнимание: Это РАСХОДУЕТ предмет.
+dj2.crown_of_skies.desc2=§r§lМожет быть дублирована, чтобы ваши друзья также могли её использовать!
+dj2.crown_of_skies.desc3=§rКрафт дублированя корону не расходует.
+dj2.crown_of_skies.robit.desc0=§5§oПолучено трудами Робита.
+dj2.golder_molder_folder.desc0=§4§aAn older boulder told 'er: Hold 'er shoulder!
+dj2.golder_molder_folder.desc1=§r§oИмеет 16 использований!
+dj2.golder_molder_folder.desc2=§cНе расходуется при обычном крафте.
+dj2.golder_molder_folder.desc3=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+dj2.resonating_orb.desc0=§cНе расходуется при обычном крафте.
+dj2.resonating_orb.desc1=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+dj2.thermal_conductor_rod.desc0=§rИмеет 800 использований.
+dj2.thermal_conductor_rod.desc1=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+dj2.rainbow_slate.desc0=Камень, наполненный в кровавом алтаре.
+dj2.vibrant_slate.desc0=Камень, наполненный в кровавом алтаре.
+dj2.perfect_slate.desc0=Камень, наполненный в кровавом алтаре.
+dj2.unholy_essence.desc0=§eМожно найти в подземельях Эдема.
+dj2.feather_of_the_wild_woods.desc0=§9Можно найти в подземельях Дикого леса.
+dj2.livingmatter.desc0=§r§oКажется, только земля из других измерений
+dj2.livingmatter.desc1=§r§oимеет способность превращаться
+dj2.livingmatter.desc2=§r§oв живую материю... Как странно.
+dj2.effulgent_spike_of_apalachia.desc0=§dМожно найти в подземельях Апалачии.
+dj2.electrotine_ore.desc0=§rПроведите ритуал §cпадающей башни§r
+dj2.electrotine_ore.desc1=§rчтобы вызвать метеорит, содержащий §3электротиновую руду§r.
+dj2.electrotine_ore.desc2=§8§o<Удерживайте Shift для дополнительной информации>
+dj2.electrotine_ore.desc3=§r1) Создайте главный ритуальный Камень и 100 ритуального камня.
+dj2.electrotine_ore.desc4=§r2) Используйте §7предсказатель ритуала [Сумерки]§r для настройки ритуала.
+dj2.electrotine_ore.desc5=§r3) Разместите блок обсидиана примерно на 10-11 блоков выше главного
+dj2.electrotine_ore.desc6=§rРитуального камня, чтобы поймать падающий метеорит. Без этого
+dj2.electrotine_ore.desc7=§rваша ритуальная структура будет разрушена.
+dj2.electrotine_ore.desc8=§r4) Накопите не менее §c1,000,000 LP§r в вашей кровавой сети.
+dj2.electrotine_ore.desc9=§r5) Активируйте ритуал с помощью §3пробужденного кристалла активации§r.
+dj2.electrotine_ore.desc10=§r6) Бросьте §9ядро энергии§r на главный ритуальный камень.
+dj2.electrotine_ore.desc11=§r7) Добудьте полученную руду. Вы можете автоматизировать этот процесс с помощью строителя.
+dj2.jaded_petal.desc0=§2§oЛюбимый лепесток владельца сервера!
+dj2.soul_of_the_dark_realm.desc0=§rПолучается путем извлечения душ из §7клинка жнеца душ Сактота§r.
+dj2.soul_of_the_dark_realm.desc1=§rЧтобы получить души, убивайте монстров этим мечом.
+dj2.abyssal_wasteland_teleporter.desc0=§r§l§nДля многопользовательской игры:
+dj2.abyssal_wasteland_teleporter.desc1=§rЕсли ваш портал находится очень далеко от 0,0, и
+dj2.abyssal_wasteland_teleporter.desc2=§rвам пришлось бы лететь долго, чтобы найти крепость
+dj2.abyssal_wasteland_teleporter.desc3=§rпустоши, просто нажмите ПКМ с
+dj2.abyssal_wasteland_teleporter.desc4=§rэтим предметом в руках, чтобы телепортироваться на 0,80,0.
+dj2.abyssal_wasteland_teleporter.desc5=§r§lИмеет 3 использования.
+dj2.abyssal_wasteland_teleporter.desc6=§r§lВнимание:§r рекомендую делать это с реактивным ранцем
+dj2.abyssal_wasteland_teleporter.desc7=§rили дельтапланом.
+dj2.omothol_teleporter.desc0=§r§l§nДля многопользовательской игры:
+dj2.omothol_teleporter.desc1=§rЕсли ваш портал находится очень далеко от 0,0, и
+dj2.omothol_teleporter.desc2=§rвам пришлось бы лететь долго, чтобы найти подьземелье Омотула
+dj2.omothol_teleporter.desc3=§r, просто нажмите ПКМ с этим предметом в руках
+dj2.omothol_teleporter.desc4=§rчтобы телепортироваться на 0,80,0.
+dj2.omothol_teleporter.desc5=§r§lИмеет только одно использование.
+dj2.omothol_teleporter.desc6=§r§lВнимание:§r рекомендую делать это с реактивным ранцем
+dj2.omothol_teleporter.desc7=§rили дельтапланом.
+dj2.omothol_teleporter.desc8=§7§o*Может вызывать ужасные кошмары
+dj2.omothol_teleporter.desc9=§7§oПожалуйста, обратитесь к вашему
+dj2.omothol_teleporter.desc10=§7§oместному психиатру за дополнительной информацией.
+dj2.knowledge_of_the_sky.desc0=§rМожно найти в подземельях Небесного тёрна.
+dj2.mysterious_leaking_soul.desc0=§8Можно найти в подземельях Мортума.
+dj2.woodland_mansion_locator_token.desc0=§r§lИмеет только одно использование!
+dj2.totem_of_undying.desc0=§rНе везёт найти лесной особняк?
+dj2.totem_of_undying.desc1=§rСоздайте §r§lжетон поиска лесного особняка§r!
+dj2.flame_devourer_pendant.desc0=§rКогда на вас наложен эффект §cадского пламени§r
+dj2.flame_devourer_pendant.desc1=§rот жаровни, нажмите ПКМ с этим предметом в руках,
+dj2.flame_devourer_pendant.desc2=§rчтобы получить частицу §6пламени§r, которая используется
+dj2.flame_devourer_pendant.desc3=§rдля мода §6LightningCraft§r.
+dj2.flame_devourer_pendant.desc4=§rПросмотрите Адский кодекс на странице "Проклятия / Воспламенение",
+dj2.flame_devourer_pendant.desc5=§rи используйте его с вашей жаровней!
+dj2.ignition.desc0=§rМожно получить с помощью кулона пожирателя пламени
+dj2.ignition.desc1=§rпока на вас действует проклятие адского огня.
+dj2.ignition.desc2=§rПросмотрите Адский Кодекс на страницу "Проклятия / Воспламенение",
+dj2.ignition.desc3=§rи используйте его с вашей жаровней!
+dj2.shard_of_the_grotesque.desc0=§rМожно получить путём убийства призраков, вызванных
+dj2.shard_of_the_grotesque.desc1=§rРитуалом разрыва реальности. Обратитесь к вашей
+dj2.shard_of_the_grotesque.desc2=§rКниге теней за дополнительной информацией.
+dj2.conducted_impetus.desc0=§rТребуется §dимпульсный проводник§r с
+dj2.conducted_impetus.desc1=§rМаксимальным уровнем испульса
+dj2.arcanium_base.desc0=§rЭтот предмет можно создать, находясь в квадрате 7x7
+dj2.arcanium_base.desc1=§rиз следующих биомов. Перечесление от внешнего квадрата к внутреннему:
+dj2.arcanium_base.desc2=§rбиом §5Мортум§r, биом §cНезер§r, биом §aМагический Лес
+dj2.arcanium_base.desc3=§rи биом §3Океан§r. Чтобы создать такой рисунок используйте мистический
+dj2.arcanium_base.desc4=§rТерраформер. Смотрите об этом в книге квестов -> Глава 21:
+dj2.arcanium_base.desc5=§rквест 'Мистический ритуал'!
+dj2.primordial_fragment.desc0=§rТребует 1 единицу прочности §6первобытного жемчуга§r для создания.
+dj2.ritualistic_biome_checker.desc0=§rИспользуется для мистического ритуала,
+dj2.ritualistic_biome_checker.desc1=§rподробно описанного в Главе 21 книги квестов.
+dj2.astral_core.desc0=§rДля создания потребуется 4 §9настроенных небесных кристалла
+dj2.astral_core.desc1=§rкаждый из которых имеет §cуникальную черту§r слабого Созвездия:
+dj2.astral_core.desc2=dAlcara§r, §7Gelu§r, §aUlteria§r и §6Vorux§r. Чтобы добавить черту к кристаллу:
+dj2.astral_core.desc3=§r1. Настройте кристалл на любое созвездие.
+dj2.astral_core.desc4=§r2. Дождитесь, пока ночью не появится тусклое созвездие.
+dj2.astral_core.desc5=§r3. Снова настройте кристалл, но уже на тусклое созвездие.
+dj2.astral_core.desc6=§r   Таким образом вы добавите модификатор §9черты§r.
+dj2.astral_core.desc7=§r§lНЕ ПОДЛЕЖИТ АВТОКРАФТУ.
+dj2.star_of_revelation.desc0=§cНе расходуется при обычном крафте.
+dj2.star_of_revelation.desc1=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+dj2.spacerock.desc0=§rМожно найти в подземельях §7Луны§r.
+dj2.secret_alien_technology.desc0=§rМожно найти в подземельях §cМарса§r.
+dj2.chunk_of_the_meteor_that_ended_the_era_of_dinosaurs.desc0=§rМожно найти в подземельях §7Пояса Астероидов§r.
+dj2.fragment_of_the_sun.desc0=§rМожно найти в подземельях §6Венеры§r.
+dj2.crystal_core.desc0=§rЕсли создаётся с помощью крафта с горным кристаллом,
+dj2.crystal_core.desc1=§rто используемый кристалл должен иметь:
+dj2.crystal_core.desc2=§9Размер >= 300§r и §9чистоту >= 75%§r.
+dj2.crystal_core.desc3=§rДо разблокировки крафта с заряженным алмазом,
+dj2.crystal_core.desc4=§rможно §cсоздать только вручную§r.
+dj2.celestial_crystal_core.desc0=§rЕсли создаётся с помощью крафта с небесным кристаллом,
+dj2.celestial_crystal_core.desc1=§rто используемый небесный кристалл должен иметь:
+dj2.celestial_crystal_core.desc2=§9Размер >= 700§r и §9чистоту >= 75%§r.
+dj2.celestial_crystal_core.desc3=§rДо разблокировки крафта с нейтрониевым самородком,
+dj2.celestial_crystal_core.desc4=§rможно §cсоздать только вручную§r.
+dj2.solar_seeds.desc0=§rМожно сажать только на жёрдочки.
+dj2.apalachia_door_key2.desc0=§cИспользуйте его так же, как предыдущий ключ, чтобы подняться дальше.
+dj2.skythern_door_key2.desc0=§cИспользуйте его на двери босса Небесного тёрна!
+dj2.venus_door_key2.desc0=§cНажмите ПКМ, чтобы разрушить блоки двери босса Венеры в радиусе 5 блоков.
+dj2.white_matter.desc0=§rМожно создать только из EMC.
+dj2.white_matter.desc1=§rИспользуйте том знаний, чтобы изучить все трансмутации.
+dj2.essence_of_logic.desc0=§rСоздайте книгу логики и решите головоломку!
+dj2.essence_of_logic.desc1=§rИспользуйте Стива, Алекс и Херобрина с правильными
+dj2.essence_of_logic.desc2=§rВозрастом, количеством друзей и ростом для создания этого предмета!
+dj2.essence_of_logic.desc3=§r§lМожно крафтить только вручную!
+dj2.essence_of_infinity.desc0=§r§lТребуется 50 полных бассейнов маны для создания.
+dj2.clay.desc0=§5§oНаконец-то сбалансировано!
+dj2.natures_blessing.desc0=§rТребуется полный бассейн маны для создания.
+dj2.unwarpification_talisman.desc0=§rНажмите ПКМ, чтобы установить уровень вашего искажение на 0!
+dj2.goddess_pearl.desc0=§cНе расходуется при обычном крафте.
+dj2.goddess_pearl.desc1=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+dj2.divinerpg_galacticraft_keys.desc=Нажмите Пкм, чтобы разрушить любые блоки двери %s в радиусе 5 блоков.
+
+# Imp leather info tooltip
+dj2.imp_leather.desc0=Импов можно призвать с помощью ритуала призыва существ из мола Roots.
+
+# Bag of Truth and related endgame items.
+dj2.bag_of_truth_unlocked.name=§d§lМешочек правды
+dj2.bag_of_truth_unlocked.desc0=§c§lОТКРЫТЫЙ
+dj2.bag_of_truth_locked.name=§d§lМешочек правды (Закрытый)
+dj2.bag_of_truth_locked.desc0=§c§lЗАКРЫТЫЙ
+dj2.bag_of_truth_locked.desc1=§cНужен §r§d§lключ бесконечности§r§c, чтобы открыть.
+dj2.bag_of_truth_locked.desc2=§c(Это главная цель этой сборки.)
+dj2.bag_of_truth_locked.desc3=§4§oМожно создать, если вы потеряли его.
+dj2.bag_of_truth_locked.desc4=§4§oВнимание: крафт удалит все предметы внутри используемого мешочка.
+dj2.key_to_infinity.desc0=§cСоедините с §r§d§lмешочком правды (Закрытый)§r§c, чтобы открыть его!
+dj2.glyphs.desc0=§4§oМне кажется, я уже видел эти руны на
+dj2.glyphs.desc1=§4§oтех скрижалях и кровавом шаре
+dj2.glyphs.desc2=§4§oсамого высокого уровня в главе 18...
+dj2.call_of_the_underworld.desc0=§4Выпадает с Иммортуса
+
+# Starting items
+dj2.introduction.paper.name=§r§lПрочитайте всплывающую подсказку для получения информации о привязке клавиш
+dj2.introduction.paper.desc0=§r§5- Нажмите §6K§r§5, чтобы открыть квесты
+dj2.introduction.paper.desc1=§r§5- Зажмите §6`§r§5, пока ломаете блоки, чтобы активировать OreExcavation
+dj2.introduction.paper.desc2=§r§5- Нажмите §6.§r§5, чтобы положить предмет в мир
+dj2.introduction.book.name=Добро пожаловать
+dj2.introduction.book.desc0=§4§n§lДобро пожаловать в Divine Journey 2!§r
+dj2.introduction.book.desc1=§8§6Вы падший ангел, у которого лишь одна цель в этом мире: найти смысл жизни! К счастью, ответ уже в вашем инвентаре. Он заперт в удобном мешке... Так что это должно быть довольно легко, верно...?
+dj2.introduction.book.desc2=Подождите, кажется, вам нужен ключ, чтобы открыть этот мешок. Ключ бесконечности! Ну, это усложняет задачу... На самом деле, СИЛЬНО усложняет! Настолько, что вам придётся пройти всю эту экспертную сборку, чтобы узнать, что внутри этого мешочка!
+dj2.introduction.book.desc3=В Divine Journey 2 вам нужно будет проходить все доступные моды по порядку, так как крафта строго линейные. Многие крафты также усложнены, поэтому вам потребуется много автоматизации для получения всех необходимых ресурсов
+dj2.introduction.book.desc4=Но не беспокойтесь! Вам даны инструменты для настройки всей автоматизации, о которых вы не могли и мечтать.
+dj2.introduction.book.desc5=Чтобы пройти весь этот путь, вам нужно хорошо разбираться в модах в целом или сыграть в другие сборки, которые
+dj2.introduction.book.desc6=дадут вам представление о том, как автокрафтить, автообрабатывать, автоматизировать каждый аспект любого технического или магического мода и так далее.
+dj2.introduction.book.desc7=Однако, не отчаивайтесь, ведь вы также вы будете исследовать удивительные измерения, добавленные модами DivineRPG, Twilight Forest,
+dj2.introduction.book.desc8=Aether, Atum 2, AbyssalCraft, Erebus, Galacticraft и другими. С ними будет много веселья, особенно потому, что доступ к ним вы получите довольно рано.
+dj2.introduction.book.desc9=Основная линия прогресса состоит из следующих этапов:
+dj2.introduction.book.desc10=§l1.§r Раннее исследование с инструментами из Tinkers' Construct, заклинаниями из Roots и тотемами Totemic.
+dj2.introduction.book.desc11=§l2.§r Технические моды для всех ваших потребностей в автоматизации.
+dj2.introduction.book.desc12=§l3.§r Магические моды: Blood Magic, EvilCraft, AbyssalCraft, Botania, Thaumcraft, Thaumic Augmentation, Bewitchment и
+dj2.introduction.book.desc13=Astral Sorcery.
+dj2.introduction.book.desc14=§l4.§r Поздняя игра с креативными предметами: Mystical Agriculture, RFTools Dimensions, Draconic Evolution, Alchemistry, ProjectE и Avaritia.
+dj2.introduction.book.desc15=§nПримечание:§r эта сборка во многом отличается от Divine Journey 1. Если вы хотите сыграть в порт Divine Journey 1
+dj2.introduction.book.desc16=на 1.12.2, я настоятельно рекомендую попробовать Celestial Journey от Unhook.
+dj2.introduction.book.desc17=Сборка, однако, расширяет моды, предлагаемые Divine Journey 1, вносит некоторые улучшения, уменьшает количесвто гринда и лишнего ожидания в
+dj2.introduction.book.desc18=поздней игре, гораздо меньше рецептов, связанных с нестабильностью (например, Инфузия Thaumcraft), и гораздо меньше гринда в целом. Например, вам больше не придется настраивать Вторжение Демонов миллиард раз, вам больше не придется побеждать каждого босса Witchery (или Bewitchment)
+dj2.introduction.book.desc19=квадриллион раз. Награды за квесты на этот раз, как правило, немного щедрее.
+dj2.introduction.book.desc20=А теперь вперёд, §lнажмите K, чтобы открыть ваши квесты§r, и, я надеюсь, вам будет весело в Divine Journey 2!
+
+# Hoe Durability tooltip
+dj2.hoe_durability.desc0=§c§lВнимание: §r§fочень низкая прочность предмета
+dj2.hoe_durability.desc1=§fИспользуйте для этого мотыготопор из Tinkers' Construct!
+
+# Extra Utilities 2 tooltips
+dj2.drop_of_evil.desc0=§c§lНе выпадает из скелетов-иссушителей.
+dj2.drop_of_evil.desc1=§c§lМожно получить только через крафт.
+dj2.drop_of_evil.desc2=§4Нажмите ПКМ по траве с этим предметом в руках, чтобы превратить её в проклятую землю.
+dj2.drop_of_evil.desc3=§4На проклятой земле будут постоянно появлятся мобы.
+dj2.drop_of_evil.desc4=§4Осторожно, проклятая земля горит на солнце!
+dj2.chunkloader.desc0=§5§oИспользуйте FTB Chunks для загрузки чанков!
+dj2.suncrystal.desc0=§fЗаряжается, если бросить под солнце.
+dj2.suncrystal.desc1=§fПозже, вы можете использовать для этого жидкий солнечный свет или эссенцию светокамня.
+dj2.suncrystal.desc2=§cДля зарядки от жидкого солнечного света иметь 0 прочности.
+
+# Draconic Additions tooltips
+dj2.potato_helm.desc0=§fМожно получить, нажав ПКМ с пробуждённым картофельным шлемом в руках.
+dj2.potato_chest.desc0=§fМожно получить, нажав ПКМ с пробуждённым картофельным нагрудником в руках.
+dj2.potato_legs.desc0=§fМожно получить, нажав ПКМ с пробуждёнными картофельными поножами в руках.
+dj2.potato_boots.desc0=§fМожно получить, нажав ПКМ с пробуждёнными картофельными ботинками в руках.
+
+# Twilight Forest tooltips
+dj2.lamp_of_cinders.desc0=§cНе расходуется при обычном крафте.
+dj2.lamp_of_cinders.desc1=§c§lВНИМАНИЕ: §7§lАвтокрафт из AE2 съест этот предмет! Используйте другой крафтер, например, из RFTools!
+
+# RFTools tooltips
+dj2.phased_field_generator.desc0=§fМаксимальная ёмкость: §r§c100,000,000 RF
+dj2.phased_field_generator.desc1=§fИспользование RF/тик: §r§c10,000
+dj2.phased_field_generator.desc2=§fРаботает §r§c500 секунд§r§f при полной зарядке.
+
+# Thaumic Augmentation tooltips
+dj2.gauntlet_warning.desc0=§fСнимите все линзы перед крафтом!
+dj2.emptiness_stone.desc0=§fКамень измерения Пустоты.
+dj2.emptiness_spires.desc0=§fМожно найти в большом замке измерения Пустоты.
+
+# Ender Storage tooltips
+dj2.ender_storage_tank.desc0=§4Для создания требуется переносной резервуар (Базовый), полный §r§6пылающего пиротеума§r§4!
+
+# DivineRPG tooltips
+dj2.divinerpg_furnace.desc0=§cНельзя автоматически извлекать содержимое.
+dj2.infernal_flame.desc0=§l§fИспользуется для вызова §r§l§cКороля Лихачей§r§l§f в Нижнем мире.
+dj2.mysterious_clock.desc0=§l§fИспользуется для вызова §r§l§4Древней Сущности§r§l§f в Обычном мире.
+dj2.call_of_the_watcher.desc0=§l§fИспользуется для вызова §r§l§cСмотрителя§r§l§f в Нижнем мире.
+dj2.horde_horn.desc0=§fИспользуется для вызова §r§7Орды Айрако§r§f в Энде.
+dj2.horde_horn.desc1=§fОрда состоит из §r§9Синего§r§f, §r§aЗеленого§r§f, §r§eЖелтого§r§f, §r§cКрасного§r§f и §r§dФиолетового§r§f Айрако.
+dj2.twilight_clock.desc0=§fИспользуется для активации порталов в §r§eЭдем§r§f,
+dj2.twilight_clock.desc1=§9Дикий лес§r§f, §r§dАпалачию§r§f, Небесный тёрн и §r§8Мортум§r§f.
+dj2.eden_heart.desc0=§fЧтобы получить, найдите солнечный алтарь в Эдеме!
+dj2.eden_heart.desc1=§fТеперь, с помощью куска эдема призовите и победите Солнечную Бурю!
+dj2.dungeon_bookshelf.desc0=§fМожно найти в §r§9подземельях тайн§r§f.
+dj2.dungeon_bookshelf.desc1=§fИспользуйте шёлковое кКасание для получения.
+dj2.acceleron.desc0=§fПокупается у §r§bДаттикона§r§f в §r§9Подземельях тайн§r§f.
+dj2.raw_arcanium.desc0=§fМожно найти в §r§9подземельях тайн§r§f,
+dj2.raw_arcanium.desc1=§fза закрытыми дверями.
+dj2.molten_furnace.desc0=§fМожно найти в §r§9подземельях тайн§r§f,
+dj2.molten_furnace.desc1=§fв специальных комнатах NPC.
+dj2.dungeon_tokens.desc0=§fВыпадает из Парасекты и Драмикса в §r§9Подземельях
+dj2.dungeon_tokens.desc1=§9тайн§r§f. Они вызываются на соответствующих
+dj2.dungeon_tokens.desc2=§fалтарях, с помощью книги мастеров.
+dj2.wizards_book.desc0=§fПокупается у §r§4Лорда Ваттикуса§r§f в §r§9Подземельях тайн§r§f.
+
+# Mekanism tooltips
+dj2.robit.desc0=§c§lВнимание: §r§7§lв инвентаре робита останутся только предметы в верхних трёх рядах используемого сундука!
+dj2.dynamic_tank_warning.desc0=§c§lВнимание: §r§fиногда динамический резеруар может ЗАБЫТЬ
+dj2.dynamic_tank_warning.desc1=§fсвою жидкость. НЕ рекомендуется создавать / использовать.
+dj2.gaugedropper.desc0=Можно опустошить, нажав Shift + ПКМ по воздуху.
+
+# Lightningcraft tooltips
+dj2.electricium.desc0=§fСоздаётся, путём удара молнии
+dj2.electricium.desc1=§fпо алмазу, золотому и
+dj2.electricium.desc2=§fжелезну слитку!
+dj2.demon_blood.desc0=§fВыпадает из демонических солдат, появляющихся
+dj2.demon_blood.desc1=§fв Нижнем мире.
+dj2.ichor.desc0=§fСоздается ударом молнии по демонической крови,
+dj2.ichor.desc1=§fнебесному слитку и изумруду
+dj2.ichor.desc2=§fброшенным на землю.
+dj2.underpowder.desc0=§fВыпадает из подземных криперов в Подземном мире.
+dj2.guards_bone.desc0=§fВыпадает из скелетов-стражей в Подземном мире.
+
+# Extended Crafting tooltips
+dj2.block_of_ender.desc0=§fКрафт требует коробку вечного закрытия с духом эндермена.
+
+# DivineRPG loottable tweaked boss drops
+dj2.fury_fire.desc0=§fВыпадает из §r§4Короля Лихачей§r§f, который вызывается с помощью §r§9адского огня§r§f в Нижнем мире. Всегда выпадает по четыре штуки.
+dj2.ancient_leg.desc0=§fВыпадает из §r§4Древней Сущности§r§f, которая вызывается
+dj2.ancient_leg.desc1=§f§r§9мистическими часами§r§f в Обычном мире.
+dj2.ancient_leg.desc2=§fЕсть шанс получить 2-4 ноги.
+dj2.eye_of_the_watcher.desc0=§fВыпадает из §r§cСмотрителя§r§f, который вызывается
+dj2.eye_of_the_watcher.desc1=§f§r§9призывом смотрителя§r§f в Нижнем мире.
+dj2.ayeraco_wing.desc0=§fВыпадает из §r§9Синего§r§f, §r§aЗелёного§r§f, §r§eЖёлтого§r§f, §r§cКрасного§r§f и §r§dФиолетового
+dj2.ayeraco_wing.desc1=§fАйрако. Их можно вызвать §r§eРогом Орды
+dj2.ayeraco_wing.desc2=§fв Энде. С каждого Айрако может выпасть 1-2 штуки.
+
+# Ender Utilities tooltips
+dj2.inactive_ender_core.desc0=§fКрафт предмета быть автоматизирован с помощью механического использователя в режиме "Entity" и кристалла энда, или в режиме "Use item on block" и стабилизированного кристалла энда.
+dj2.inactive_ender_core.desc1=§fМожет быть создано в §r§o§cлюбом§r§f измерении, не только в измерении Энда.
+dj2.chairwand.desc0=1. Нажмите ПКМ на земле, чтобы добавить место для сидения.
+dj2.chairwand.desc1=2. Разместите ступеньку с помощью Shift + ПКМ
+dj2.chairwand.desc2=3. Нажмите ПКМ, чтобы сесть на полученный стул!
+dj2.chairwand.desc3=(4. ЛКМ с жезлом в руках, чтобы удалить место для сидения.)
+dj2.enderpearl_reusable.desc0=§4Предмет отключён, так как очень глючный. Может застрять внутри блоков.
+dj2.portal_scaler.desc0=§4Предмет отключён. Может использоваться для быстрого перемещения к границе мира или для порчи порталов в Нижний мир других игроков.
+dj2.syringe_disabled.desc0=§4Предмет отключён. Предметы, созданные из этого, считаются слишком мощными.
+dj2.syringe_disabled.desc1=§4Предмет отключён. Делает сражения с различными мобами слишком лёгкими.
+dj2.syringe_disabled.desc2=§4Предмет отключён, так как парализующий шприц также отключён.
+dj2.syringe_disabled.desc3=§4Предмет отключён. Делает сражения с различными мобами слишком лёгкими.
+
+# EvilCraft tooltips
+dj2.blood_chest.desc0=§cПредмет отключен. Делает починку предметов слишком лёгкой.
+
+# EnderIO tooltips
+dj2.me_conduits.desc0=§c§lВНИМАНИЕ: §r§fМЭ трубы нужно использовать с осторожностью,
+dj2.me_conduits.desc1=§fтак как они могут быть довольно лагучими при чрезмерном использовании и не передавать каналы должным образом.
+dj2.farming_station.desc0=§c§lВНИМАНИЕ: §r§fНЕ используйте эту машину для сбора урожая
+dj2.farming_station.desc1=§fс жёрдочек. Это ВСЕГДА приводит к вылету игры.
+dj2.farming_station.desc2=§f§o<Нажмите Shift для дополнительной информации>
+dj2.farming_station.desc3=§fВместо этого используйте барабан дикой природы /
+dj2.farming_station.desc4=§f / рог дикой природы, фермера из Actually Additions,
+dj2.farming_station.desc5=§fили механизм из Industrial Foregoing;
+dj2.farming_station.desc6=§fвместе с вакуумной воронкой или другим сборщиком предметов.
+dj2.upgrade_enderio_armor.desc0=§6Сохраняет зачарования и улучшения при крафте.
+
+# Just Enough Calculation tooltips
+dj2.item_calculator.desc0=§c§lВнимание: §r§fвключение определённых машин в
+dj2.item_calculator.desc1=§fваши расчеты может привести к вылету игры!
+dj2.item_calculator.desc2=§fНа данный момент из таких машин мы обнаружили только
+dj2.item_calculator.desc3=§fмолниумовый стол наполнения,
+dj2.item_calculator.desc4=§fно могут быть и другие.
+dj2.item_calculator.desc5=§c§lИспользуйте с осторожностью!
+
+# Bewitchment tooltips
+dj2.coquina.desc0=§fГенерируется на пляжах, но также может быть и cоздан.
+dj2.white_sage_seeds.desc0=§fИногда выпадает из мёртвого куста.
+dj2.garlic_seeds.desc0=§fИногда выпадает из аллиума.
+dj2.dragons_blood_resin.desc0=§fПосле первого создания добывается
+dj2.dragons_blood_resin.desc1=§fнажатием ПКМ по дереву драконьей крови с
+dj2.dragons_blood_resin.desc2=§fболином в рукаих и ожиданием, пока оно истечет кровью!
+dj2.dimensional_sand.desc0=§fВыпадает из эндерменов и эндермитов при убийстве их атеймом.
+dj2.heart.desc0=§fВыпадает из игроков, жителей, ведьм, вызывателей,
+dj2.heart.desc1=§fиллюзоров и поборников при убийстве их атеймом.
+dj2.hoof.desc0=§fВыпадает из свиней, овец, коров, лошадей, свинозомби,
+dj2.hoof.desc1=§fнрибных коров, лам, ослов и мулов при убийстве их атеймом,
+dj2.hoof.desc2=§fили просто из фермы мобов с проклятой земли в Нижнем мире.
+dj2.spectral_dust.desc0=§fВыпадает из любой нежити при убийстве её атеймом.
+dj2.perpetual_ice.desc0=§fСоздается броском зелья ледяного мира на камень,
+dj2.perpetual_ice.desc1=§fгранит или диорит. Чтобы создать зелье, разместите
+dj2.perpetual_ice.desc2=§fведьмин котёл рядом с ведьминым алтарем, наполните его
+dj2.perpetual_ice.desc3=§fводой и бросьте корень мандрагоры, лёд ИЛИ снег,
+dj2.perpetual_ice.desc4=§fсветящуюся Пыль и, наконец, порох. Теперь нажмите ПКМ
+dj2.perpetual_ice.desc5=§fс пузырьком три раза!
+dj2.poppet_vampiric.desc0=§fПредмет удалён. Считается слишком сильным.
+dj2.caduceus.desc0=§fВыпадает из Бафомета. Обратитесь к вашему
+dj2.caduceus.desc1=§fАдскому кодексу, чтобы узнать, как его вызвать.
+dj2.leonards_wand.desc0=§fВыпадает из Леонарда. Обратитесь к вашему
+dj2.leonards_wand.desc1=§fАдскому кодексу, чтобы узнать, как его вызвать.
+dj2.demon_heart.desc0=§fВыпадает из младших и высших демонов. Обратитесь к вашему
+dj2.demon_heart.desc1=§fАдскому кодексу, чтобы узнать, как их вызвать.
+dj2.hellhound_horn.desc0=§fВыпадает из различных демонов мода Bewitchment.
+dj2.spanish_moss.desc0=§fМожно найти на болотах. Используйте ножницы для сбора.
+
+# Thaumcraft tooltips
+dj2.thaumonomicon.desc0=§c§lВнимание:§r§f§l Крафта в книге могут быть неверными.
+dj2.thaumonomicon.desc1=§f§lВсегда сверяйтесь с JEI при крафте.
+dj2.creative_thaumonomicon.desc0=§dРазблокирует все исследования при открытии
+dj2.arcane_workbench.desc0=§fСоздаётся нажатием ПКМ по эндер-верстаку
+dj2.arcane_workbench.desc1=§fс пылью §r§dSalis Mundus§r§f.
+dj2.crucible.desc0=§fСоздается нажатием ПКМ по очистителю из
+dj2.crucible.desc1=§fEvilCraft с пылью §r§dSalis Mundus§r§f.
+dj2.research_table.desc0=§fСоздается нажатием ПКМ с письменными принадлежностями в руках
+dj2.research_table.desc1=§fпо деревянному столу из Thaumcraft.
+dj2.scribing_tools.desc0=§7§oНаполните меня чернилами, чтобы завершить исследование!
+dj2.veined_scribing_tools.desc0=§7§oИмеет вдвое большую ёмкость "Чернил" и может быть заполнен кровью из Evilcraft!
+dj2.arcane_workbench_charger.desc0=§fНайдите идеальный чанк в биоме магического
+dj2.arcane_workbench_charger.desc1=§fлеса и наденьте полный комплект
+dj2.arcane_workbench_charger.desc2=§fброни тауматурга для создания!
+dj2.rare_earths.desc0=§7§o<Удерживайте Shift для дополнительной информации>
+dj2.rare_earths.desc1=§fРедко выпадает из следующих руд:
+dj2.rare_earths.desc2=§fУголь, редстоун, кварц, янтарь, алмаз;
+dj2.rare_earths.desc3=§fв порядке возрастания частоты выпадения.
+dj2.rare_earths.desc4=§fАльтернативно, плавьте любые из следующих руд
+dj2.rare_earths.desc5=§fв адской печи: железо, золото, серебро,
+dj2.rare_earths.desc6=§fмедь, олово, свинец, киноварь.
+dj2.porous_stone.desc0=§6Можно получить с помощью шёлкового касания
+dj2.porous_stone.desc1=§6Преобразуется из заражённого камня вне зоны действия семени заражения.
+dj2.grapple_gun_spool.desc0=Предмет отключен. Может привести к вылету игры.
+dj2.bath_salts.desc0=§fПоместите это в мистическую ванну под небольшим бассейном
+dj2.bath_salts.desc1=§fводы, чтобы превратить воду в очищающую жидкость.
+dj2.turret.desc0=§fПредмет отключен из-за неизменяемой таблицы лута.
+dj2.void_seed.desc0=§fМожно получить бросив разрушитель причинных связей в
+dj2.void_seed.desc1=§fпустотный разлом или использованием пустотного сифона в том же чанке.
+dj2.primordial_pearl.desc0=§fРедко выпадает из §r§5пустотных разломов§r§f при
+dj2.primordial_pearl.desc1=§fих закрытии с помощью §r§dразрушителя причинным связей§r§f.
+
+# Thermal Expansion tooltips
+dj2.phytogenic_insolator.desc0=§c§lМашина отключена.
+dj2.tier_iii_potion.desc0=§fЧтобы получить, создайте зелье III уровня в
+dj2.tier_iii_potion.desc1=§fдистиляторе с улучшением алхимической реторты.
+dj2.tier_iv_potion.desc0=§fЧтобы получить, создайте сначала зелье III уровня, а затем и IV уровня в
+dj2.tier_iv_potion.desc1=§fдистиляторе с улучшением алхимической реторты.
+
+# Botania tooltips
+dj2.livingrock.desc0=§f§oКажется, только камень из других измерений
+dj2.livingrock.desc1=§f§oможет превращаться в
+dj2.livingrock.desc2=§f§oжизнекамень... Как странно.
+dj2.livingwood.desc0=§f§oКажется, только дерево из других измерений
+dj2.livingwood.desc1=§f§oможет превращаться в
+dj2.livingwood.desc2=§f§oжизнедерево... Как странно.
+dj2.terrasteel.desc0=§fЧтобы получить, постройте структуру §r§9агломерационной плиты
+dj2.terrasteel.desc1=§fсогласно вашему §r§eлексикону ботании§r§f.
+dj2.terrasteel.desc2=§fЗатем, поставьте на плиту и ближайший бассейн маны по §r§eискре§r§f
+dj2.terrasteel.desc3=§fТеперь, бросьте или положите, нажимая ПКМ по плите, нужные игредиенты:
+dj2.terrasteel.desc4=§bМана сталь§r§f, §r§bжемчуг маны§r§f и §r§bмана алмаз§r§f на верх
+dj2.terrasteel.desc5=§fПлиты! Искра возьмёт половину бассейна маны и
+dj2.terrasteel.desc6=§fсоздаст слиток §r§aтеррастали§r§f.
+dj2.baublebox.desc0=§4§oДля создания требуется обычный рюкзак.
+dj2.biomestonea.desc0=§fГенерируется с помощью цветка §r§7мариморфозиса§r§f.
+dj2.lexicon.desc0=§c§lВнимание:§r§f§l крафты, показанные внутри, могут быть неверными.
+dj2.lexicon.desc1=§f§lВсегда сверяйтесь с JEI при крафте.
+
+# Thermal augment tooltips
+dj2.thermal_kit.desc0=Увеличивает энергоёмкость машины или генератора на §c%d§r.
+dj2.thermal_kit.desc1=Увеличивает ёмкость переносного резервуара на §cx%d§r.
+dj2.thermal_kit.desc2=Увеличивает ёмкость предметов кэша на §cx%d§r.
+dj2.thermal_kit.desc3=Увеличивает количество слотов ящика на §c%d§r.
+
+# Silver plate
+dj2.silver_plate.desc0=§5§oS'il vous plaît
+
+# Blood Magic: Alchemical Wizardry tooltips
+dj2.rune_speed.desc0=Увеличивает скорость потребления LP крафтами или наполнение кровавого шара на §620%§r за руну, аддитивно.
+dj2.rune_self_sacrifice.desc0=Увеличивает количество LP, получаемого за каждое жертвуемое сердце игрока, на §610%§r за руну, аддитивно.
+dj2.rune_sacrifice.desc0=Увеличивает количество LP, получаемого за каждое жертвуемое сердце моба, на §610%§r за руну, аддитивно.
+dj2.rune_capacity.desc0=Увеличивает ёмкость алтаря на §62,000§r LP за руну, аддитивно.
+dj2.rune_capacity.desc1=§4§oНе§r сочетается с рунами усиленной ёмкости!
+dj2.elemental_tool.desc0=§dИнструменты начертания нельзя использовать вне предсказателя ритуала!
+dj2.rune_augmented_capacity.desc0=Увеличивает ёмкость алтаря на §610%§r за руну, мультипликативно.
+dj2.rune_augmented_capacity.desc1=§4§oНе§r сочетается с рунами ёмкости! Перейдите на эти, когда их у вас будет §6>15§r.
+dj2.rune_efficiency.desc0=Уменьшает потерю прогресса при отсутствии LP в алтаре на §615%§r за руну, мультипликативно.
+dj2.rune_charging.desc0=Накапливает прогресс наполения в простое для ускорения следующего крафта. Слишком сложно перечислить весь эффект.
+dj2.rune_displacement.desc0=Увеличивает скорость ввода/вывода LP на §620%§r за руну, мультипликативно.
+dj2.rune_acceleration.desc0=Уменьшает интервал операций на §61 тик§r за руну. Суммируется до §619§r. Влияет на ввод/вывод LP.
+dj2.rune_orb.desc0=Увеличивает количество LP, которым можно наполнить кровавый шар на §62%§r за руну, аддитивно.
+dj2.rune_orb.desc1=§4§oНе§r увеличивает скорость.
+dj2.blood_shard.desc0=§fУбивайте мобов активированным §r§cсвязанным клинком
+dj2.blood_shard.desc1=§fчтобы получить. Будьте осторожны. Пока он активен,
+dj2.blood_shard.desc2=§fон постоянно тратит LP из вашей кровавой сети!
+dj2.soul_gem.desc0=§fЭтот адский камень может хранить максимум §r§c%s§r§f ед. воли.
+dj2.blood_orb.desc0=§fЭтот кровавый шар может хранить до §r§c%s§r§f LP.
+dj2.blood_orb.desc1=§fЭтот кровавый шар можно наполнить только в кровавом алтаре уровня §r§c%d§r§f и выше.
+
+# Atum tooltips
+dj2.atum_artifact_melee.desc0=§4§lСчитается артефактом ближнего боя Атума.
+dj2.atum_artifact_ranged.desc1=§4§lСчитается артефактом дальнего Боя Атума.
+dj2.atum_artifact_armor.desc2=§4§lСчитается артефактом брони Атума.
+dj2.atum_artifact_necklace.desc3=§4§lСчитается артефактом амулета Атума.
+dj2.relic_ore.desc0=§fДобудьте, чтобы получить §r§4§lиспачканные идолы§r§f или используйте
+dj2.relic_ore.desc1=§9§lшёлковое касание§r§f, чтобы получить руду для дальнейшей обработки.
+dj2.golden_date_enchanted.desc0=§4§lМожно получить через торговлю с последователями солнца.
+dj2.golden_date_enchanted.desc1=§cТакже может быть зачарован в алтаре из мода Aether.
+dj2.emmer_flour.desc0=§4§oНажмите ПКМ по блоку источника воды, чтобы превратить меня в тесто!
+
+# Natura sapling tooltips
+dj2.transmutation_sapling.desc0=§fМожет быть создан с помощью ритуала трансмутации из Roots.
+
+# Immersive Engineering tooltips
+dj2.immersive_engineering_chunk_border_warning.desc0=§cВнимание: §r§fНЕ стройте мультиблочные структуры мода
+dj2.immersive_engineering_chunk_border_warning.desc1=§fImmersive Engineering на границе чанков. Нажмите F9 дважды
+dj2.immersive_engineering_chunk_border_warning.desc2=§fчтобы показать отобразить границы. В хужшем случае структура может
+dj2.immersive_engineering_chunk_border_warning.desc3=§fсломать ваш мир.
+dj2.conveyor.desc0=§8§oЕсли вы получили сломанный/глючный конвейер, вы можете превратить его в обычный через крафт.
+dj2.engineers_manual.desc0=§oНекоторые описания для кастомных крафтов
+dj2.engineers_manual.desc1=§oнеправильно отображаются. Используйте JEI для их просмотра!
+
+# Mystical Agriculture tooltips
+dj2.dragon_egg_seeds.desc0=Уровень: §r§c5
+dj2.any_crystal_durability.desc0=Осталось использований: §c%s
+dj2.inferium_crystal.desc0=§eИнфериум§r -> §aПрудентиум§r
+dj2.prudentium_crystal.desc0=§aПрудентиум§r -> §6Интермедиум§r
+dj2.intermedium_crystal.desc0=§6Интермедиум§r -> §bСупериум§r
+dj2.superium_crystal.desc0=§bСупериум§r -> §cСупремиум§r
+dj2.supremium_crystal.desc0=§cСупремиум§r -> §5Инсаниум§r
+dj2.master_crystal.desc0=§e§kЭ§a§kС§6§kС§b§kЕ§c§kН§5§kЦ§f§kИ§r§e§kЯ§r -> §e§kЭ§a§kС§6§kС§b§kЕ§c§kН§5§kЦ§f§kИ§r§e§kЯ§r
+
+# Quantum Flux tooltips
+dj2.ender_crystal.desc0=Выпадает с эндерменов
+dj2.graphitedust.desc0=Взорвите его, чтобы создать гипералмаз!
+
+# Baubley Heart Canisters tooltips
+dj2.bhc_red_heart.desc0=§fРедко выпадает из всех мобов, не являющихся боссами.
+dj2.bhc_orange_heart.desc0=§fРедко выпадает из большинства боссов,
+dj2.bhc_orange_heart.desc1=§fи может быть создано из душ иссушения.
+dj2.bhc_green_heart.desc0=Не выпадает. Может быть только создан.
+dj2.bhc_blue_heart.desc0=Не выпадает. Может быть только создан.
+
+# ProjectE tooltips
+dj2.pe_philosophers_stone.desc0=§5§oГоворят, что главный ингредиент для
+dj2.pe_philosophers_stone.desc1=§5§oФилософского камня ... это человеческая жизнь.
+dj2.pe_philosophers_stone.desc2=§5§oКак странно.
+dj2.pe_transmutation_tablet.desc0=§c§lВнимание: §r§fкрафт тратит философский камень.
+dj2.projecte_matter.desc0=§fМожет быть создан только из EMC.
+dj2.projecte_matter.desc1=§fИспользуйте том знаний, чтобы изучить все трансмутации.
+
+# Industrial Foregoing tooltips
+dj2.mob_duplicator.desc0=§c§lВнимание: §r§fзаключатель мобов не будет доступен
+dj2.mob_duplicator.desc1=§fдо главы 25. §r§f§o(Это связано с тем, что в конфигах
+dj2.mob_duplicator.desc2=§f§oдля него нет чёрного списка.)
+
+# Avaritia tooltips
+dj2.pile_of_neutronium.desc0=§fСоздаётся сборщика нейтрония каждые
+dj2.pile_of_neutronium.desc1=§f7111 тиков, или ~355 секунд, или ~6 минут.
+dj2.pile_of_neutronium.desc2=§fВы можете значительно ускорить это
+dj2.pile_of_neutronium.desc3=§fс помощью часов течения времени.
+
+# Applied Energistics 2 tooltips
+dj2.meteorite_compass.desc0=§f§lМетеориты можно найти ТОЛЬКО в Атуме.
+dj2.crafting_card.desc0=§fПользуйтесь с осторожностью! Если использовать часто, это может
+dj2.crafting_card.desc1=§fпривести к полному зависанию вашей МЭ-системы!
+
+# Galacticraft tooltips
+dj2.meteoric_iron_raw.desc0=§fМожно получить при добыче метеоритов на любой планете Galacticraft.
+dj2.meteoric_iron_raw.desc1=§fОни довольно редки, поэтому также добавлен альтернативный крафт.
+dj2.schematic_moon_buggy.desc0=§fМожно найти в §r§7Лунных§r§f Подземельях.
+dj2.schematic_moon_buggy.desc1=§fТакже может быть перекрафчено из §r§9схемы ракеты второго уровня§r§f.
+dj2.schematic_tier_2_rocket.desc0=§fМожно найти в §r§7Лунных§r§f Подземельях.
+dj2.schematic_tier_2_rocket.desc1=§fТакже может быть перекрафчено из §r§9схемы лунного багги§r§f.
+dj2.evolved_skeleton_key.desc0=§fВыпадает из §r§7Эволюционировавшего скелета Ьосса
+dj2.evolved_skeleton_key.desc1=§fв §r§7Лунном Подземелье.
+dj2.schematic_cargo_rocket.desc0=§fМожно найти в §r§cМарсианских§r§f подземельях.
+dj2.schematic_cargo_rocket.desc1=§fТакже может быть перекрафчено из §r§9схемы ракеты третьего уровня§r§f.
+dj2.schematic_tier_3_rocket.desc0=§fМожно найти в в §r§cМарсианских§r§f подземельях.
+dj2.schematic_tier_3_rocket.desc1=§fТакже может быть перекрафчено из §r§9схемы автоматической грузовой ракеты§r§f.
+dj2.schematic_astro_miner.desc0=§fМожно найти в §r§6Венерианских§r§f подземельях.
+dj2.evolved_creeper_key.desc0=§fВыпадает из §r§aЭволюционировавшего крипера Босса
+dj2.evolved_creeper_key.desc1=§fв §r§cМарсианском подземелье§r§f.
+dj2.spider_queen_key.desc0=§fВыпадает из §r§cЭколюционировавшего Паука Босса
+dj2.spider_queen_key.desc1=§fв §r§6Венерианском подземелье§r§f.
+dj2.galacticraft_web_torch.desc0=§fМожно найти в §r§6Венерианских§r§f подземельях.
+dj2.galacticraft_basic_item_venus.desc0=§fМожно найти в §r§6Венерианских§r§f Подземельях.
+dj2.galacticraft_dense_ice.desc0=§fМожно найти на §r§9Астероидах§r§f.
+
+# AbyssalCraft tooltips
+dj2.monolith_stone.desc0=§7Можно получить, разрушая стены
+dj2.monolith_stone.desc1=§7в логове Шогготов в Омотуле. Также можно создать.
+dj2.necronomicon.desc0=§7Крафт не расходует статуи.
+dj2.coralium_ore.desc0=§fГенерируется в биомах океана и болота.
+dj2.coralium_stone.desc0=§fКоралловый булыжник можно найти в Бездной пустоши.
+dj2.coralium_stone.desc1=§fТакже можно получить, выливая жидкую антиматерию
+dj2.coralium_stone.desc2=§fна §r§bжидкий коралий§r§f!
+dj2.coralium_stone.desc3=§f(Если не можете найти жидкую антиматерию, то призовите
+dj2.coralium_stone.desc4=§fанти-корову с помощью ритуала мода Roots.)
+dj2.eye_of_the_abyss.desc0=§fДля получения призовите и победите Асору,
+dj2.eye_of_the_abyss.desc1=§fПадшего в §r§2Бездной пустоши§r§f.
+dj2.eye_of_the_abyss.desc2=§f(Сначала вам понадобится Некрономикон
+dj2.eye_of_the_abyss.desc3=§fБездной пустоши. Откройте его и прочтите
+dj2.eye_of_the_abyss.desc4=§fраздел "Ритуалы/Абиссальная пустошь/Ритуал
+dj2.eye_of_the_abyss.desc5=§fСпящего".)
+dj2.coralium_flesh.desc0=§fВыпадает из зомби в Бездной пустоши.
+dj2.coralium_bone.desc0=§fВыпадает из скелетов-зомби в Бездной пустоши.
+dj2.dreadshard.desc0=§fВыпадает из §r§cужасных стражей§r§f в Ужасных землях.
+dj2.dreadfragment.desc0=§fВыпадает из зомби в Ужасных землях.
+dj2.dreadlands_infused_powerstone.desc0=§fДля получения, создайте §r§3обработанную кораловую кирку§r§f и около шести
+dj2.dreadlands_infused_powerstone.desc1=§3отслеживателей камня силы§r§f. Затем, войдите в §r§3бездную пустошь§r§f, найдите
+dj2.dreadlands_infused_powerstone.desc2=§f§r§3бездную крепость§r§f с помощью §r§3отслеживателей камня силы§r§f
+dj2.dreadlands_infused_powerstone.desc3=§fи добудьте §r§cнаполненный камень силы из ужасных земель§r§f!
+dj2.abyssalnite_chunk.desc0=§fВыпадает из §r§cабиссальнитовых големов§r§f в Ужасных землях.
+dj2.dreadium_chunk.desc0=§fВыпадает из §r§cужасных абиссальнитовых големов§r§f в Ужасных землях.
+dj2.dread_plagued_key.desc0=§fВыпадает из §r§cЧа’гарота§r§f в конце подземелья §r§cУжасных земель
+dj2.dread_plagued_key.desc1=§fВойти в него можно, установив
+dj2.dread_plagued_key.desc2=§cАлтарь Ча’гарота (низ и верх)§r§f на высоте Y=40
+dj2.dread_plagued_key.desc3=§fв биоме гор ужасных землель.
+dj2.eldritch_scale.desc0=§fВыпадает из §r§7пережитков§r§f и §r§7прислужников сторожа§r§f в §r§7Омотуле§r§f.
+dj2.omothol_flesh.desc0=§fВыпадает из гулей из Омотула в... Омотуле.
+dj2.omothol_flesh.desc1=§f§oНевероятно, знаю.
+dj2.gatekeeper_essence.desc0=§fВыпадает из §r§7Джа’зара§r§f, финального босса Омотула.
+dj2.soul_reaper.desc0=§fВыпадает из §r§7Сактота, вестника судьбы§r§f, финального босса AbyssalCraft.
+dj2.crystalcluster.desc0=§fМожно добыть только киркой с уровнем добычи не менее 8.
+dj2.crystalcluster2.desc0=§fМожно добыть только киркой с уровнем добычи не менее 10.
+dj2.necronomicon_ownership.desc0=Создайте и получите права на его владение им.
+
+# Erebus tooltips
+dj2.erebus_glider.desc0=§l§cВНИМАНИЕ: может сломать ваш мир. Предмет отключен.
+dj2.erebus_glider.desc1=§o§4Как ты вообще меня нашел?!
+dj2.riding_beetles.desc0=§l§cВНИМАНИЕ: езда на жуках может привести к вылету игры и поломке мира.
+dj2.riding_beetles.desc1=§o§4Как ты вообще меня нашел?!
+dj2.gneiss.desc0=§fПри добыче превращается лаву.
+dj2.gneiss.desc1=§fЧтобы добыть, окружите его водой
+dj2.gneiss.desc2=§fминимизируя шанс сгорания предмета.
+dj2.erebus_drops.desc0=§c§nВыпадает из следующих мобов:
+dj2.bio_velocity.desc0=§f- Сольпуги (в биоме Ulterior Outback)
+dj2.bio_velocity.desc1=§f- Сороконожки (в большинстве биомов)
+dj2.supernatural_velocity.desc0=§f- Сольпуги (в биоме Ulterior Outback)
+dj2.supernatural_velocity.desc1=§f- Сороконожки (в большинстве биомов)
+dj2.exoskeleton_plate.desc0=§f- Жуки (в биомах Underground Jungle,
+dj2.exoskeleton_plate.desc1=§f           Subterranean Savannah и Elysian Fields)
+dj2.exoskeleton_plate.desc2=§f- Муравьиные львы (в биоме Volcanic Desert)
+dj2.magma_crawler_eye.desc0=§f- Магмовые пользуны (в пирамидах короля муравьиных львов)
+dj2.tarantula_leg.desc0=§f- Тарантулы (в большинстве биомов)
+dj2.fly_wing.desc0=§f- Мухи (во всех биомах)
+dj2.fly_wing.desc1=§f- Оводы (в большинстве биомов)
+dj2.dragonfly_wing.desc0=§f- Стрекозы (на кувшинках в
+dj2.dragonfly_wing.desc1=§fбольших водоемах в биоме Submerged Swamp)
+dj2.elastic_fibre.desc0=§f- Саранча (в биомах Elysian Fields и Subterranean Savannah)
+dj2.elastic_fibre.desc1=§f- Грибы (в биоме Fungal Forest как редкий дроп)
+dj2.cabbage_seeds.desc0=§fЧтобы получить, ломайте высокую траву в Эребусе.
+dj2.cabbage_seeds.desc1=§fВсегда выпадают с болотных растений.
+
+# Agricraft tooltips
+dj2.crop_sticks.desc0=§c§lВНИМАНИЕ: §r§fНЕ используйте их с фермой из EnderIO
+dj2.crop_sticks.desc1=§fЭто приведёт к вылету игры.
+dj2.crop_sticks.desc2=§f§o<Нажмите Shift для дополнительной информации>
+dj2.crop_sticks.desc3=§fВместо этого используйте барабан дикой природы /
+dj2.crop_sticks.desc4=§f / рог дикой природы, фермера из Actually Additions,
+dj2.crop_sticks.desc5=§fили механизм из Industrial Foregoing;
+dj2.crop_sticks.desc6=§fвместе с вакуумной воронкой или другим сборщиком предметов.
+
+# Quark tooltips
+dj2.witch_hat.desc0=§fРедко выпадает из ведьм.
+dj2.enderdragon_scale.desc0=§fМожно получить из эндер-дракона после его второго убийства.
+
+# Roots tooltips
+dj2.roots_wipes_input_bag.desc0=§l§cВНИМАНИЕ: §r§7Создание этого предмета очистит инвентарь используемой в крафте сумки!
+dj2.elemental_soul_crop.desc0=Может расти на любой элементальной почве.
+dj2.baffle_cap_mushroom.desc0=Растёт точно так же, как и обычный гриб.
+dj2.wildwood_quiver.desc0=§4§oДля создания требуется обычный рюкзак.
+
+# Astral Sorcery tooltips
+dj2.infused_wood.desc0=§fДля крафта подойдёт только светящаяся древесина мечтаний.
+
+# Underground Biomes tooltips
+dj2.undergroundbiomes_sand.desc0=§5§oМожно превратить в обычный песок, объеденив
+dj2.undergroundbiomes_sand.desc1=§5§oдве штуки вместе горизонтально в верстаке.
+dj2.undergroundbiomes_gravel.desc0=§5§oМожно превратить в обычный гравий, объеденив
+dj2.undergroundbiomes_gravel.desc1=§5§oдве штуки вместе горизонтально в верстаке.
+
+# Dragon's Breath tooltips
+dj2.dragon_breath.desc0=§fЕсли у вас возникли проблемы со сбором этого предмета из-за
+dj2.dragon_breath.desc1=§7пузырька с воздухом энда§r§f из Botania, попробуйте следующее: НЕ нажимайте ПКМ по блокам,
+dj2.dragon_breath.desc2=§fвместо этого нацельтесь именно на фиолетовые §r§dчастицы дыхания дракона§r§f,
+dj2.dragon_breath.desc3=§fа §r§cНЕ§r§f на блоки под ними.
+
+# Lilypad tooltip
+dj2.waterlily.desc0=§f§oРыболов может иногда выловить это.
+
+# Storage Drawers tooltips
+dj2.framing_table.desc0=§6Обратите внимание на ручной инструмент обрамления!
+dj2.storage_drawers_removal.desc0=Storage Drawers Extras планируется §4§lудалить§r в предстоящем обновлении! (Вероятно, ~2.22.0)
+dj2.storage_drawers_removal.desc1=Используйте §6ручной инструмент для обрамления§r, чтобы преобразовать их в обрамлённые ящики, чтобы содержимое не удалилось!
+dj2.upgrade_creative.desc0=Бесконечное хранилище
+dj2.upgrade_vending.desc0=Торговля
+dj2.upgrade_normal.desc0=Вместимость: §c%d§r стака
+dj2.empty_drawer.desc0=§6Ничего не содержит§r
+
+# DivineRPG Vethea tooltips
+dj2.vethea_crypt_wall.desc0=§fМожно найти на всех слоях Везеи. Просто
+dj2.vethea_crypt_wall.desc1=§fдобудьте стены этих коричневых подземелий.
+dj2.vethea_heliosis_lump.desc0=§fМожно найти на верхнем слое Везеи,
+dj2.vethea_heliosis_lump.desc1=§fв специальных (коричневых) подземельях.
+dj2.vethea_dream_melon.desc0=§fМожно найти в сундуках в малых криптах
+dj2.vethea_dream_melon.desc1=§fна нижнем слое Везеи.
+dj2.vethea_luna_bricks.desc0=§fМожно найти на верхнем слое Везеи,
+dj2.vethea_luna_bricks.desc1=§fв малых прямоугольных аренах.
+dj2.vethea_moon_clock.desc0=§fНЕ рекомендуется использовать для боя с Леди Луной,
+dj2.vethea_moon_clock.desc1=§fесли вы, конечно, не готовы к настоящему испытанию...
+
+# Actually Additions tooltips
+dj2.item_player_probe.desc0=§cПредмет отключен.
+
+# Totemic tooltips
+dj2.baykok_bow.desc0=§cТратит единицу прочности за создание.
+dj2.totempedia.desc0=§c§lВНИМАНИЕ: §r§fОписанные крафты могут быть неверными.
+dj2.totempedia.desc1=§fВсегда сверяйтесь с JEI при создании!
+
+# Aether tooltips
+dj2.aerogel_warning.desc0=§c§lНа серверах с модом TickProfiler автоматизация этого блока вызовет вылеты.
+dj2.enchanter.desc0=Работает значительно быстрее, если размещён над блоком гравитита!
+
+# Draconic Evolution tooltips
+dj2.wyvern_core.desc0=§fТребует четверть бассейна маны для создания.
+dj2.wyvern_core.desc1=§oJEI показывает в 10 раз больше маны, чем нужно, поэтому шкала полная.
+dj2.info_tablet.desc0=§fСодержит информацию об EnderIO и Thaumic Energistics,
+dj2.info_tablet.desc1=§fа не только о Draconic Evolution и Draconic Additions.
+dj2.dragon_heart.desc0=§fМожно получить после убийства Эндер-дракона.
+dj2.dragon_heart.desc1=§fТакже можно создать с помощью Mystical Agriculture.
+dj2.chaos_shard.desc0=§fМожно получить после убийства Хранителя Хаоса.
+dj2.chaos_shard.desc1=§fТакже можно создать с помощью Alchemistry.
+
+# Construction Paste Container tooltip
+dj2.constructionpastecontainer.desc0=§fОн может хранить максимум §c%d§r.
+
+# Graphite Dust tooltip
+dj2.jei.industrial_graphite_dust.desc0=Взорвите промышленную графитовую пыль, чтобы создать этот предмет!
+
+# Hand Framing Tool tooltips
+dj2.jei.hand_framing_tool.desc0=Обрамляйте ящики вручную!
+dj2.jei.hand_framing_tool.desc1=Ручной инструмент обрамления позволит вам обрамлять ящики, уже размещённые в мире.
+dj2.jei.hand_framing_tool.desc2=Для этого сам инструмент нужно настроить на верстаке. Смотрите рецепты в JEI.
+dj2.jei.hand_framing_tool.desc3=Затем, после настройки инструмента, нажатие ПКМ по ящикам в мире обрамит их.
+
+# Deprecated
+dj2.deprecated.deprecated.desc=§cУстарело
+dj2.deprecated.convert.desc=§cПреобразуйте в новый предмет через крафт.
+
+
+# Fix Broken Lang Keys from other sources
+
+research.f_MATCOLDIRON.text=Изучите холодное железо.
+research.f_MATSILVER.text=Изучите серебро.

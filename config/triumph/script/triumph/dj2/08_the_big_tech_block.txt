@@ -1,0 +1,14 @@
+setIcon(<contenttweaker:rf_powder>)
+setTitle("Большой технологический блок")
+setDescription("Создайте RF порошок, чтобы начать большой технологический блок!")
+
+addParent("triumph:dj2/root")
+setPos(-31,216)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasRFPowder", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:rf_powder>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:08_the_big_tech_block")

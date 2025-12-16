@@ -1,0 +1,14 @@
+setIcon(<draconicevolution:draconic_core>)
+setTitle("Добро пожаловать в позднюю игру!")
+setDescription("Войдите в позднюю игру, создав ядро дракона!")
+
+addParent("triumph:dj2/root")
+setPos(3,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasDraconicCore", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_core>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:21_welcome_to_lategame")

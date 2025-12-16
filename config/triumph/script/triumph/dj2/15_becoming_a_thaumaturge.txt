@@ -1,0 +1,14 @@
+setIcon(<thaumcraft:thaumonomicon>)
+setTitle("Становимся таумотургом")
+setDescription("Создайте таумономикон!")
+
+addParent("triumph:dj2/root")
+setPos(3,250)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasThaumonomicon", "minecraft:inventory_changed")
+criteria.addItem(<thaumcraft:thaumonomicon>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:15_becoming_a_thaumaturge")

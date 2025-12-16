@@ -1,0 +1,14 @@
+setIcon(<bewitchment:witches_oven>)
+setTitle("Ньяхахахахахахаха...!")
+setDescription("Создайте ведьмину печь и станьте дипломированной ведьмой!")
+
+addParent("triumph:dj2/root")
+setPos(37,250)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasWitchesOven", "minecraft:inventory_changed")
+criteria.addItem(<bewitchment:witches_oven>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:16_nyahhahahahaaaa")
