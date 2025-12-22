@@ -1,0 +1,28 @@
+enchantment.bibliocraft.bibliocraft.readingench.desc=Позволяет читать содержимое некоторых блоков Bibliocraft, таких как печатный станок.
+enchantment.bibliocraft.bibliocraft.deathcompassench.desc=При наличии этого улучшения на Атласе, после смерти Вы возродитесь с вечным компасом, который приведёт Вас обратно к точке Вашей гибели. 
+
+enchantment.divinerpg.rive.desc=Разрушает дополнительные блоки при добыче.
+enchantment.divinerpg.aftershock.desc=Имеет 5% шанс за уровень удвоить урон, наносимый оружием ближнего боя. 
+
+enchantment.enderio.witherweapon.desc=Накладывает эффект увядания на поражённую сущность.
+enchantment.enderio.shimmer.desc=Придаёт предмету эффект зачарования.
+enchantment.enderio.witherarrow.desc=Накладывает эффект увядания на поражённую сущность.
+enchantment.enderio.repellent.desc=Шанс телепортировать атакующую сущность прочь, увеличивая шанс и дальность телепортации в зависимости от уровня.
+enchantment.endercore.xpboost.desc=Позволяет получать дополнительный опыт от мобов и блоков.
+enchantment.endercore.autosmelt.desc=Позволяет автоматически переплавлять добываемые блоки или ресурсы с мобов, как в печи.
+enchantment.endercore.soulbound.desc=Предмет не выпадает при смерти. 
+
+enchantment.extrautils2.xu.kaboomerang.desc=Заставляет бумеранг создавать взрыв при столкновении с блоком или мобом.
+enchantment.extrautils2.xu.zoomerang.desc=Увеличивает скорость запуска бумеранга на 30% за уровень.
+enchantment.extrautils2.xu.burnerang.desc=Заставляет бумеранг поджигать всё, чего он касается, на 5 секунд.
+enchantment.extrautils2.xu.bladerang.desc=Увеличивает урон, наносимый бумерангом, на 4 единицы за уровень.
+enchantment.extrautils2.xu.boomereaperang.desc=Заставляет бумеранг уничтожать любые растения или цветы на своём пути, собирая их дроп. 
+
+enchantment.lightningcraft.hand_of_thor.desc=Даёт оружию возможность поражать врагов молнией.
+enchantment.lightningcraft.elec_aura.desc=Стреляет электричеством в атакующих при нанесении на броню. 
+
+enchantment.openblocks.explosive.desc=При ношении части брони, зачарованной нестабильностью, будут срабатывать взрывы разного размера при определённых событиях.
+enchantment.openblocks.last_stand.desc=Когда игрок, носящий броню с зачарованием последний рубеж, получает урон, который иначе убил бы его, игрок остаётся с 1 единицей здоровья ценой опыта, причём стоимость зависит от урона и уменьшается в зависимости от общего уровня последнего рубежа на всей экипировке.
+enchantment.openblocks.flim_flam.desc=Вызывает ряд негативных эффектов у ближайших игроков при экипировке. 
+
+enchantment.simplyjetpacks.fuel_efficiency.desc=Уменьшает количество энергии, потребляемой реактивными ранцами и флаксовыми ранцами при полёте или получении урона.
