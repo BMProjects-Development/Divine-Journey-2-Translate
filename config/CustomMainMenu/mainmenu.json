@@ -16,7 +16,7 @@
     {
         "singleplayer":
         {
-            "text" : "",
+            "text" : " ",
             "texture" : "mainmenu:singleplayer.png",
             "posX" : -245,
             "posY" : 95,
@@ -31,7 +31,7 @@
         },
         "multiplayer":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -245,
             "posY" : 122,
             "width" : 224,
@@ -46,7 +46,7 @@
         },
         "options":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -245,
             "posY" : 149,
             "width" : 224,
@@ -61,7 +61,7 @@
         },
         "mods":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -245,
             "posY" : 176,
             "width" : 224,
@@ -76,7 +76,7 @@
         },
         "version_history":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -245,
             "posY" : 203,
             "width" : 224,
@@ -91,23 +91,23 @@
         },
         "discord":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -245,
             "posY" : 230,
             "width" : 62,
             "height" : 63,
-            "tooltip": "Join the Divine Journey 2 Discord Server!",
+            "tooltip": "Discord BMProjects!",
             "alignment" : "top_right",
             "texture" : "mainmenu:discord.png",
             "action" :
             {
                 "type" : "openLink",
-                "link" : "https://discord.gg/rH9pyS7"
+                "link" : "https://discord.gg/9GWKBVw3Ty"
             }
         },
         "language":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -183,
             "posY" : 230,
             "width" : 62,
@@ -123,7 +123,7 @@
         },
         "quit_game":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -121,
             "posY" : 230,
             "width" : 100,
@@ -137,7 +137,7 @@
         },
         "refresh":
         {
-            "text" : "",
+            "text" : " ",
             "posX" : -20,
             "posY" : 0,
             "width" : 20,
@@ -191,7 +191,7 @@
             "alignment" : "bottom_left"
         },
         "creator":{
-            "text" : "- modpack by Atricos",
+            "text" : "- modpack by Atricos (translated by BMProjects)",
             "posX" : 3,
             "posY" : -18,
             "fontSize" : 0.6,
