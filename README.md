@@ -11,7 +11,7 @@
 - Авторы перевода BMProjects [Telegram](https://t.me/BMProjects) | [Discord](https://discord.gg/9GWKBVw3Ty) 
 
 ## ❗️Способ 1 - Установка с нуля:
-1. Скачайте архив с переводом [Google Drive]()
+1. Скачайте архив с переводом [Google Drive](https://drive.google.com/file/d/1ceFRX2w6yk4dt_4CT2dfCq5NBniONdWl/view?usp=drive_link)
 2. Очистите папку .minecraft
 3. Перенесите все папки из архива в .minecraft
 4. Запустите игру
