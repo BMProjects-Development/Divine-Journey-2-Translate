@@ -105,20 +105,20 @@
                 "link" : "https://discord.gg/9GWKBVw3Ty"
             }
         },
-        "language":
+        "telegram":
         {
             "text" : " ",
             "posX" : -183,
             "posY" : 230,
             "width" : 62,
             "height" : 63,
-            "tooltip": "Language",
+            "tooltip": "Telegram BMProjects!",
             "alignment" : "top_right",
-            "texture" : "mainmenu:language.png",
+            "texture" : "mainmenu:telegram.png",
             "action" :
             {
-                "type" : "openGui",
-                "gui" : "languages"
+                "type" : "openLink",
+                "link" : "https://t.me/BMProjects"
             }
         },
         "quit_game":
