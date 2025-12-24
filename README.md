@@ -18,13 +18,13 @@
 5. Приятной игры!
 
 ## ❗️Способ 2 - Установка в уже имеющуюся сборку:
-1. Скачайте архив с переводом [Google Drive]()
+1. Скачайте архив с переводом [Google Drive](https://drive.google.com/file/d/1LqWljMs8dacZzoOR5z3ZLujDlmb3OU5Z/view?usp=drive_link)
 2. Перенесите папки config, resources, resourcepacks с заменой в папку где находится установленная сборка
 3. Запустите игру
 4. Приятной игры!
 
 ## ❗️Способ 3 - Установка через CurseForge Launcher, Prism Launcher и прочее!
-1. Скачайте архив с переводом [Google Drive]()
+1. Скачайте архив с переводом [Google Drive](https://drive.google.com/file/d/1-EnS1dqgBMUfeM5M-GpwH_-zPf3FhmJ4/view?usp=sharing)
 2. Импортируйте архив через CurseForge Launcher, Prism Launcher и прочее
 3. Запустите игру
 4. Приятной игры!
