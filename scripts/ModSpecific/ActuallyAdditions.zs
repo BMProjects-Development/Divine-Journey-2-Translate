@@ -24,11 +24,17 @@ recipes.addShaped(<actuallyadditions:block_giant_chest>, [[<ore:logWood>,<minecr
 
 // Crate (Medium)
 recipes.remove(<actuallyadditions:block_giant_chest_medium>);
-recipes.addShaped(<actuallyadditions:block_giant_chest_medium>, [[<roots:runed_obsidian>,<immersiveengineering:wooden_device0>,<roots:runed_obsidian>],[<immersiveengineering:wooden_device0>,<actuallyadditions:block_giant_chest>,<immersiveengineering:wooden_device0>],[<roots:runed_obsidian>,<immersiveengineering:wooden_device0>,<roots:runed_obsidian>]]);
+recipes.addShaped("medium_crate_upgrade", <actuallyadditions:block_giant_chest_medium>, [[<roots:runed_obsidian>,<immersiveengineering:wooden_device0>,<roots:runed_obsidian>],[<immersiveengineering:wooden_device0>,<actuallyadditions:block_giant_chest>.marked("crate"),<immersiveengineering:wooden_device0>],[<roots:runed_obsidian>,<immersiveengineering:wooden_device0>,<roots:runed_obsidian>]],
+function(out, ins, cInfo) {
+    return out.withTag(ins.crate.tag);
+}, null);
 
 // Crate (Large)
 recipes.remove(<actuallyadditions:block_giant_chest_large>);
-recipes.addShaped(<actuallyadditions:block_giant_chest_large>, [[<actuallyadditions:block_crystal_empowered:3>,<actuallyadditions:block_misc:4>,<actuallyadditions:block_crystal_empowered:3>],[<actuallyadditions:block_misc:4>,<actuallyadditions:block_giant_chest_medium>,<actuallyadditions:block_misc:4>],[<actuallyadditions:block_crystal_empowered:3>,<actuallyadditions:block_misc:4>,<actuallyadditions:block_crystal_empowered:3>]]);
+recipes.addShaped("large_crate_upgrade", <actuallyadditions:block_giant_chest_large>, [[<actuallyadditions:block_crystal_empowered:3>,<actuallyadditions:block_misc:4>,<actuallyadditions:block_crystal_empowered:3>],[<actuallyadditions:block_misc:4>,<actuallyadditions:block_giant_chest_medium>.marked("crate"),<actuallyadditions:block_misc:4>],[<actuallyadditions:block_crystal_empowered:3>,<actuallyadditions:block_misc:4>,<actuallyadditions:block_crystal_empowered:3>]],
+function(out, ins, cInfo) {
+    return out.withTag(ins.crate.tag);
+}, null);
 
 // Storage Crate Keeper
 recipes.remove(<actuallyadditions:item_crate_keeper>);
@@ -247,6 +253,7 @@ recipes.remove(<actuallyadditions:block_phantom_redstoneface>);
 recipes.addShaped(<actuallyadditions:block_phantom_redstoneface>, [[<enderio:item_alloy_ingot:3>,<actuallyadditions:item_crystal_empowered>,<enderio:item_alloy_ingot:3>],[<actuallyadditions:item_crystal_empowered>,<actuallyadditions:block_phantomface>,<actuallyadditions:item_crystal_empowered>],[<enderio:item_alloy_ingot:3>,<actuallyadditions:item_crystal_empowered>,<enderio:item_alloy_ingot:3>]]);
 
 // Phantom Connector
+recipes.removeShapeless(<actuallyadditions:item_phantom_connector>);
 recipes.removeShaped(<actuallyadditions:item_phantom_connector>);
 recipes.addShapedMirrored(<actuallyadditions:item_phantom_connector>, [[<actuallyadditions:item_crystal_empowered:3>,null,null],[null,<actuallyadditions:block_misc:8>,null],[null,null,<actuallyadditions:item_crystal_empowered:3>]]);
 
